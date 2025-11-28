@@ -4,7 +4,7 @@
 - 💡 My main goal is to develop my skills as a Full Stack Developer, focusing on technologies like React, Node.js, and NoSQL databases.
 - 🇪🇸 I currently reside in Spain, but I would like to try my luck outside my country.
 - Soy estudiante del instituto foc, y me encanta la programacion tanto para projectos como el desarrollo orientado a objetos.
-- soy un poco gay pero no se me nota mucho para no generar incomodidad
+
 ---
 
 # Technologies
